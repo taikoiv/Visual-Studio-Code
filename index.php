@@ -3,9 +3,10 @@
 <body>
 
 <h1>My first PHP page</h1>
-
+<h2>I made this with variables<h2>
 <?php
-echo "Hello World!";
+$testo="PHP"
+echo "Bello usare il $testo";
 ?>
 
 </body>
